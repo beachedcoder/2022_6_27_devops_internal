@@ -3,4 +3,3 @@
 - what's changed again?
 - polling for bass in the pond is great for lunch activity
 - plumbing sink tommorrow
-- another chore will be oil change on skid steer
