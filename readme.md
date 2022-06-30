@@ -3,3 +3,4 @@
 - what's changed again?
 - polling for bass in the pond is great for lunch activity
 - plumbing sink tommorrow
+- polling works but not very sexy
